@@ -27,6 +27,3 @@ SPOTIPY_REDIRECT_URL=your_redirect_url
 python app.py
 
 6. Open link from terminal in browser
-
-
-"# spotify_recommendation" 
