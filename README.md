@@ -27,3 +27,9 @@ SPOTIPY_REDIRECT_URL=your_redirect_url
 python app.py
 
 6. Open link from terminal in browser
+
+![image](https://github.com/kamilfedio/spotify_recommendation/assets/82204376/689fe54e-e683-4b13-a88d-5f304037d215)
+![image](https://github.com/kamilfedio/spotify_recommendation/assets/82204376/91e77f0f-029d-4fc5-b355-efbc742f6f17)
+![image](https://github.com/kamilfedio/spotify_recommendation/assets/82204376/b2d907f3-8872-4fda-8c57-0218436adf4e)
+
+
